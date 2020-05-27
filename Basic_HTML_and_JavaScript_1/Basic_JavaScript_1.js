@@ -1,0 +1,1 @@
+alert("This is an alert box. It uses the JS alert method.");
